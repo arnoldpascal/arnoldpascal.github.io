@@ -1,1 +1,1 @@
-# coursera_course
+# Coursera Course Assignments
